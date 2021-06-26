@@ -9,6 +9,7 @@ Credits:
 
 	Images:
 		Stepan Rektorik
+        Joan van Nispen tot Sevenaer
 
 	Icons:
 		Font Awesome (fontawesome.io)
