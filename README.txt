@@ -8,7 +8,8 @@ html5up.net | @ajlkn | AJ j@lkn.io |
 Credits:
 
 	Images:
-		Stepan Rektorik
+
+        Stepan Rektorik
         Joan van Nispen tot Sevenaer
 
 	Icons:
