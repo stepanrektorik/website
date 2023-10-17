@@ -1,15 +1,16 @@
-Portfolio:
-Architectenbureau Stepan Rektorik
+# Architectenbureau Stepan Rektorik
 
-Website using:
-Read Only by HTML5 UP
-html5up.net | @ajlkn | AJ j@lkn.io | 
+Portfolio: Website
 
-Credits:
+
+### Credits:
 
 	Images:
 		Stepan Rektorik
 		Joan van Nispen tot Sevenaer
+
+	Pre-Built
+		Read Only by html5up.net | @ajlkn | AJ j@lkn.io | 
 
 	Icons:
 		Font Awesome (fontawesome.io)
